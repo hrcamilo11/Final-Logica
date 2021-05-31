@@ -27,4 +27,4 @@
 ## Inspiración
 
 - [Spotify - View lyrics](https://support.spotify.com/us/article/view-lyrics/)
-- [MUSIXMATCH - ] (https://www.musixmatch.com/es)
+- [MUSIXMATCH](https://www.musixmatch.com/es)
