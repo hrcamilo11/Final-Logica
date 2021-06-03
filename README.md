@@ -31,7 +31,7 @@ Criterios de evaluación:
 
 (10%) Aplicación del concepto de funciones en el proyecto
 
-🆕 * No son validos los commits de seguimiento
+
 
 Instrucciones de cada canción
 Cada grupo debe buscar una canción de rock en español en formato midi y subirlo como pull request a la carpeta (/canciones) de este repositorio
